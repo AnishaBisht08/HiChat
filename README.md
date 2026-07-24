@@ -8,17 +8,21 @@ I built this project to learn how chat applications like WhatsApp work. During t
 
 # 📱 Screenshots
 
+| Splash |
+|---------|
+| ![](screenshots/splash.jpg) |
+
 | Welcome | Login | Register |
 |---------|--------|----------|
-| ![](screenshots/welcome.png) | ![](screenshots/login.png) | ![](screenshots/register.png) |
+| ![](screenshots/welcome.jpg) | ![](screenshots/login.jpg) | ![](screenshots/register.jpg) |
 
 | Home | Chat | New Chat |
 |------|------|----------|
-| ![](screenshots/home.png) | ![](screenshots/chat.png) | ![](screenshots/newcontact.png) |
+| ![](screenshots/home.jpg) | ![](screenshots/chat.jpg) | ![](screenshots/newcontact.jpg) |
 
 | Profile |
 |---------|
-| ![](screenshots/profile.png) |
+| ![](screenshots/profile.jpg) |
 
 ---
 
