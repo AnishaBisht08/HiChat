@@ -18,7 +18,7 @@ I built this project to learn how chat applications like WhatsApp work. During t
 
 | Home | Chat | New Chat |
 |------|------|----------|
-| ![](screenshots/home.jpg) | ![](screenshots/chat.jpg) | ![](screenshots/newcontact.jpg) |
+| ![](screenshots/homescreen.jpg) | ![](screenshots/chatscreen.jpg) | ![](screenshots/newcontact.jpg) |
 
 | Profile |
 |---------|
