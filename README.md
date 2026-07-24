@@ -142,7 +142,7 @@ This project gave me hands-on experience with Firebase, Jetpack Compose, MVVM Ar
 
 **Anisha Bisht**
 
-- GitHub: https://github.com/Anisha956
+- GitHub: https://github.com/AnishaBisht08
 - LinkedIn: https://linkedin.com/in/anisha-bisht
 
 ---
