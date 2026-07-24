@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Hichat" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:colorAccent">#FF2563EB</item>
+    </style>
+
+    <style name="Theme.Hichat.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFFFFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.Hichat</item>
+    </style>
+</resources>
